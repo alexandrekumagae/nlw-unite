@@ -1,3 +1,5 @@
+# Pass In - NLW Unite
+
 ![Pass In](.github/cover.png)
 
 ## 💻 Projeto
@@ -16,8 +18,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org)
 - [Node.js](https://nodejs.org)
-- [Fastify] (https://fastify.dev)
-- [Prisma] (https://www.prisma.io/orm)
+- [Fastify](https://fastify.dev)
+- [Prisma](https://www.prisma.io/orm)
 
 ## 🚨 Pré-requisitos
 
